@@ -1,0 +1,14 @@
+spring:
+  application:
+    ###服务的名称
+    name: springcloud-nacos-base-member
+  cloud:
+    nacos:
+
+      discovery:
+#        group: group1
+        server-addr: 192.168.1.245:8848
+server:
+  port: 8081
+
+

@@ -1,0 +1,57 @@
+server:
+  port: 80
+####服务网关名称
+spring:
+  application:
+    name: springcloud-gateway
+  cloud:
+    gateway:
+      ###路由策略
+      routes:
+#        ###根据我们的服务名称查找地址实现调用
+        - id: member
+          ####转发http://www.mayikt.com/ 是不带负载均衡的
+          ####转发lb://mayikt-member/ 是通过服务名到注册中心获取服务列表进行负载均衡的
+          uri: lb://springcloud-nacos-base-member/
+          filters:
+          ####去掉/member前缀，映射到/springcloud-nacos-base-member/的根路径
+            - StripPrefix=1
+          ###匹配规则
+          predicates:
+            - Path=/member1/**
+
+#        - id: mayikt
+#          uri: http://www.mayikt.com/
+#          ###匹配规则
+#          predicates:
+#            - After=2017-01-20T17:42:47.789-07:00[America/Denver]
+#        - id: meite
+#          uri: http://www.mayikt.com/
+#          ###匹配规则
+#          predicates:
+#            - Host=meite.mayikt.com
+
+###权重测试没有通过
+        - id: weight_member
+          uri: lb://springcloud-nacos-base-member
+          filters:
+            - StripPrefix=1
+          predicates:
+          ####这里注意没有配置Path，则对应的是根路径/
+          ####这里的Weight是一个概率值
+            - Weight=DEFAULT_GROUP,3
+        - id: weight_order
+          uri: lb://springcloud-nacos-base-order
+          filters:
+            - StripPrefix=1
+          predicates:
+            - Weight=DEFAULT_GROUP,1
+      discovery.:
+        locator:
+          ###允许通过注册中心获取地址调用
+          enabled: true
+    nacos:
+      discovery:
+        server-addr: 192.168.1.245:8848
+### 127.0.0.1/mayikt  转到到http://www.mayikt.com/
+

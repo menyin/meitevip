@@ -1,0 +1,17 @@
+spring:
+  application:
+    ###服务的名称
+    name: springcloud-sentinel
+  cloud:
+    nacos:
+      discovery:
+#        group: group1
+        server-addr: 192.168.1.245:8848
+    sentinel:
+          transport:
+            dashboard: 192.168.1.245:8718
+          eager: true
+server:
+  port: 8081
+
+

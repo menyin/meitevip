@@ -1,0 +1,21 @@
+spring:
+  application:
+    ###服务的名称
+    name: springcloud-distribute-config
+  cloud:
+    nacos:
+      discovery:
+        ###nacos注册地址
+        server-addr: 192.168.1.245:8848
+        enabled: true
+      config:
+          ###分组
+          group: DEFAULT_GROUP
+          ###配置中心连接地址
+          server-addr: 192.168.1.245:8848
+          ###类型
+          file-extension: properties
+
+  ###不配置多环境，则使用配置中心默认版本。dev|pre|test|pub
+  profiles:
+    active: dev
