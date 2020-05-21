@@ -1,0 +1,1511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96bd2e50-3718-4ee1-a707-8b37bb061c3f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../springboot-test3/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-test3/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-base/target/" />
+    <ignored path="$PROJECT_DIR$/helloworld-spring-boot-starter/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-starter/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter-test/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="spring.factories" pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/META-INF/spring.factories">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="7" column="54" lean-forward="false" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationListener.class" pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/ApplicationListener.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <marker date="1588173860050" expanded="false" signature="0:104" ph="/.../" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventPublishingRunListener.class" pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/org/springframework/boot/context/event/EventPublishingRunListener.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <marker date="1588173267560" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1588173267560" expanded="false" signature="162:857" ph="..." />
+                <marker date="1588173267560" expanded="true" signature="1189:1594" ph="{...}" />
+                <marker date="1588173267560" expanded="false" signature="1621:1632" ph=" { " />
+                <marker date="1588173267560" expanded="false" signature="1641:1647" ph=" }" />
+                <marker date="1588173267560" expanded="true" signature="1676:1790" ph="{...}" />
+                <marker date="1588173267560" expanded="true" signature="1865:2003" ph="{...}" />
+                <marker date="1588173267560" expanded="true" signature="2077:2210" ph="{...}" />
+                <marker date="1588173267560" expanded="true" signature="2282:2804" ph="{...}" />
+                <marker date="1588173267560" expanded="true" signature="2870:2974" ph="{...}" />
+                <marker date="1588173267560" expanded="true" signature="3040:3142" ph="{...}" />
+                <marker date="1588173267560" expanded="true" signature="3228:4052" ph="{...}" />
+                <marker date="1588173267560" expanded="true" signature="4123:4414" ph="{...}" />
+                <marker date="1588173267560" expanded="true" signature="4253:4264" ph="{}" />
+                <marker date="1588173267560" expanded="true" signature="4319:4408" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppBoot.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter-test/src/main/java/com/meite/helloworld/test/AppBoot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloServiceAutoConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter/src/main/java/com/meite/helloworld/HelloServiceAutoConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloProperties.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter/src/main/java/com/meite/helloworld/HelloProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-starter/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="28" column="10" lean-forward="false" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@Select</find>
+      <find>@Insert</find>
+      <find>Insert</find>
+      <find>spring-boot-autoconfigure</find>
+      <find>initialize</find>
+      <find>onRefresh</find>
+      <find>getParentBeanFactory()</find>
+      <find>autoStartupOnly</find>
+      <find>initialize(</find>
+      <find>stopWatch</find>
+      <find>run(</find>
+      <find>servlet</find>
+      <find>getWebServer</find>
+      <find>auto</find>
+    </findStrings>
+    <dirStrings>
+      <dir>Z:\jeesite4-cloud</dir>
+      <dir>Z:\jeesite4</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/spring-framework-4.3.20.RELEASE/spring-framework-4.3.20.RELEASE" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/spring-framework-master/spring-framework-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/spring-framework-master0/spring-framework-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-base/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-base/src/main/java/com/springboot/base/api/AppBoot.java" />
+        <option value="$PROJECT_DIR$/springboot-base/src/main/java/com/springboot/base/api/Hello.java" />
+        <option value="$PROJECT_DIR$/springboot-base/src/main/java/com/springboot/base/api/Hi.java" />
+        <option value="$PROJECT_DIR$/springboot-base/src/main/java/com/springboot/base/mybatis/MyController.java" />
+        <option value="$PROJECT_DIR$/springboot-base/src/main/java/com/springboot/base/mybatis/MyService.java" />
+        <option value="$PROJECT_DIR$/helloworld-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/helloworld-spring-boot-starter/src/main/java/com/meite/helloworld/HelloService.java" />
+        <option value="$PROJECT_DIR$/helloworld-spring-boot-starter/src/main/java/com/meite/helloworld/HelloProperties.java" />
+        <option value="$PROJECT_DIR$/helloworld-spring-boot-starter/src/main/java/com/meite/helloworld/HelloServiceAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/helloworld-spring-boot-starter/src/main/resources/META-INF/spring.factories" />
+        <option value="$PROJECT_DIR$/spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter-test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter/src/main/java/com/meite/helloworld/HelloService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter-test/src/main/java/AppBoot.java" />
+        <option value="$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter-test/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter-test/src/main/java/com/meite/helloworld/test/AppBoot.java" />
+        <option value="$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="E:\Maven_Respository3.5\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="helloworld-spring-boot-starter" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-starter" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld-spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld-spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld-spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld-spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld-spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld-spring-boot-starter-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld-spring-boot-starter-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld-spring-boot-starter-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld-spring-boot-starter-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld-spring-boot-starter-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="Z:/meitejiaoyu/2020年每特教育蚂蚁课堂史上最全SpringCloudAlibaba/每特教育&amp;蚂蚁课堂-第六期微服务架构-SpringCloudAlibaba代码和文档/每特教育&amp;蚂蚁课堂-第六期微服务架构-SpringCloudAlibaba代码和文档/code/03/代码/mayikt-meite-openfeign-parent" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15917969" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="SearchEverywhereHistoryKey" value="spring.factories&#9;FILE&#9;jar://E:/Maven_Respository3.5/Respository/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.1.1/mybatis-spring-boot-autoconfigure-1.1.1.jar!/META-INF/spring.factories&#10;SpringApplicationL&#9;PSI&#9;JAVA://org.springframework.boot.SpringApplicationRunListener&#10;spring.fac&#9;FILE&#9;jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/META-INF/spring.factories&#10;EnableAutoConfiguration&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.EnableAutoConfiguration&#10;spring.factori&#9;FILE&#9;jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/META-INF/spring.factories&#10;DefaultLifecycleProcessor&#9;PSI&#9;JAVA://org.springframework.context.support.DefaultLifecycleProcessor&#10;XmlBeanFactory &#9;PSI&#9;JAVA://org.springframework.beans.factory.xml.XmlBeanFactory&#10;ApplicationContext&#9;PSI&#9;JAVA://org.springframework.context.ApplicationContext&#10;AutowireCapableBeanFactory&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.AutowireCapableBeanFactory&#10;HierarchicalBeanFactory &#9;PSI&#9;JAVA://org.springframework.beans.factory.HierarchicalBeanFactory&#10;ListableBeanFactory &#9;PSI&#9;JAVA://org.springframework.beans.factory.ListableBeanFactory&#10;ClassPathA&#9;PSI&#9;JAVA://org.springframework.context.support.ClassPathXmlApplicationContext&#10;PropertySourceLoader&#9;PSI&#9;JAVA://org.springframework.boot.env.PropertySourceLoader" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\meitevip\springboot\spring-boot-starter\helloworld-spring-boot-starter-test\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AppBoot">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="AppBoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.meite.helloworld.test.AppBoot" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="helloworld-spring-boot-starter-test" />
+      <envs />
+    </configuration>
+    <configuration name="MyController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.base.mybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.springboot.base.mybatis.MyController" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="springboot-base" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="AppBoot" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.springboot.base.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.base.api.AppBoot" />
+      <module name="springboot-base" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.AppBoot" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MyController" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AppBoot" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.AppBoot" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AppBoot" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MyController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96bd2e50-3718-4ee1-a707-8b37bb061c3f" name="Default" comment="" />
+      <created>1588984840002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588984840002</updated>
+      <workItem from="1588984848934" duration="35924000" />
+      <workItem from="1589529527201" duration="3497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39421000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16257995" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34527686" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/org/springframework/boot/context/ConfigurationWarningsApplicationContextInitializer.class</url>
+          <line>38</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter-test/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/org/springframework/boot/env/PropertySourceLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/org/springframework/boot/env/PropertiesPropertySourceLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-core/5.1.9.RELEASE/spring-core-5.1.9.RELEASE.jar!/org/springframework/core/env/AbstractEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="228" column="52" lean-forward="false" selection-start-line="228" selection-start-column="46" selection-end-line="228" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-core/5.1.9.RELEASE/spring-core-5.1.9.RELEASE.jar!/org/springframework/core/env/ConfigurableEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/org/springframework/boot/web/servlet/context/ServletWebServerApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="74" column="25" lean-forward="false" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/support/AbstractRefreshableConfigApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="96" lean-forward="false" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/ListableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/support/AbstractRefreshableApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="495" column="5" lean-forward="false" selection-start-line="495" selection-start-column="5" selection-end-line="495" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/support/AbstractXmlApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding>
+            <marker date="1588173860050" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588173860050" expanded="false" signature="159:586" ph="..." />
+            <marker date="1588173860050" expanded="true" signature="777:784" ph="{}" />
+            <marker date="1588173860050" expanded="false" signature="863:874" ph=" { " />
+            <marker date="1588173860050" expanded="false" signature="888:894" ph=" }" />
+            <marker date="1588173860050" expanded="false" signature="945:956" ph=" { " />
+            <marker date="1588173860050" expanded="false" signature="985:991" ph=" }" />
+            <marker date="1588173860050" expanded="true" signature="1107:1532" ph="{...}" />
+            <marker date="1588173860050" expanded="false" signature="1609:1620" ph=" { " />
+            <marker date="1588173860050" expanded="false" signature="1658:1664" ph=" }" />
+            <marker date="1588173860050" expanded="true" signature="1772:2119" ph="{...}" />
+            <marker date="1588173860050" expanded="false" signature="2180:2191" ph=" { " />
+            <marker date="1588173860050" expanded="false" signature="2203:2209" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/config/AutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/ApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="97" lean-forward="false" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/HierarchicalBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/xml/XmlBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/support/DefaultLifecycleProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="86" column="51" lean-forward="false" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="107" column="11" lean-forward="false" selection-start-line="107" selection-start-column="11" selection-end-line="107" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="206" column="0" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+          <folding>
+            <marker date="1588173864996" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588173864996" expanded="false" signature="165:3384" ph="..." />
+            <marker date="1588173864996" expanded="true" signature="4747:4754" ph="{}" />
+            <marker date="1588173864996" expanded="true" signature="4834:4845" ph=" { " />
+            <marker date="1588173864996" expanded="true" signature="4870:4876" ph=" }" />
+            <marker date="1588173864996" expanded="false" signature="4947:5248" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="5302:5313" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="5341:5347" ph=" }" />
+            <marker date="1588173864996" expanded="true" signature="5437:5520" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="5574:5585" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="5627:5633" ph=" }" />
+            <marker date="1588173864996" expanded="true" signature="5709:5778" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="5825:5836" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="5871:5877" ph=" }" />
+            <marker date="1588173864996" expanded="true" signature="5970:6035" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="6106:6117" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="6150:6156" ph=" }" />
+            <marker date="1588173864996" expanded="false" signature="6256:6909" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="6531:6671" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="6978:6989" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="7027:7033" ph=" }" />
+            <marker date="1588173864996" expanded="false" signature="7111:7864" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="7936:8002" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="8100:8433" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="8529:8687" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="8773:11288" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="8845:11281" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="8902:9223" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="9294:9605" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="9689:9809" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="9890:10009" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="10049:10379" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="10176:10269" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="10288:10363" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="10426:11271" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="11413:12304" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="12383:12478" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="12539:12671" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="12712:12723" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="12760:12766" ph=" }" />
+            <marker date="1588173864996" expanded="true" signature="12813:13005" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="13068:13271" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="13337:13348" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="13398:13404" ph=" }" />
+            <marker date="1588173864996" expanded="true" signature="13525:14392" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="14512:18825" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="18906:19036" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="19130:19191" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="19339:20751" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="20843:21664" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="21764:22299" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="22451:23086" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="23191:23689" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="23817:23924" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="24091:25025" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="25179:25649" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="25749:26128" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="26181:26402" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="26441:26517" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="26557:26699" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="26743:26754" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="26786:26792" ph=" }" />
+            <marker date="1588173864996" expanded="true" signature="26866:26966" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="27033:30167" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="28296:28510" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="30292:33224" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="33317:34328" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="34386:35271" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="35317:35328" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="35374:35380" ph=" }" />
+            <marker date="1588173864996" expanded="true" signature="35486:35768" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="35597:35639" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="35650:35727" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="35806:35991" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="35904:35950" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="36043:36175" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="36237:36406" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="36288:36333" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="36344:36398" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="36516:37111" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="37149:37244" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="37342:37962" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="38131:40851" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="41076:42172" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="42389:46603" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="46800:51855" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="47264:47349" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="47368:47435" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="51921:52003" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="52063:52204" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="52307:52563" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="52647:52994" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="53088:53426" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="53222:53317" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="53568:56336" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="56483:57346" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="57475:58638" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="58756:59908" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="60034:61435" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="61507:61871" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="61942:62140" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="62229:62383" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="62480:62717" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="62862:63145" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="63239:64710" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="64843:65543" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="64962:65335" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="65003:65022" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="65035:65049" ph=" }" />
+            <marker date="1588173864996" expanded="true" signature="65159:65325" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="65574:66099" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="66195:66348" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="66415:66699" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="66712:67030" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="67113:68279" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="67253:67326" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="67395:68273" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="68337:69036" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="68371:68382" ph="{}" />
+            <marker date="1588173864996" expanded="true" signature="68491:68604" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="68731:69030" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="68827:68887" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="68965:69020" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="69146:73554" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="69401:69634" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="69692:70247" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="70325:71212" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="70597:70824" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="70715:70806" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="71293:71853" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="71559:71688" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="71608:71635" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="71648:71670" ph=" }" />
+            <marker date="1588173864996" expanded="true" signature="71931:72576" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="72026:72322" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="72071:72094" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="72107:72125" ph=" }" />
+            <marker date="1588173864996" expanded="false" signature="72255:72278" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="72290:72308" ph=" }" />
+            <marker date="1588173864996" expanded="true" signature="72654:72908" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="72948:72963" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="72996:73006" ph=" }" />
+            <marker date="1588173864996" expanded="false" signature="73053:73068" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="73100:73110" ph=" }" />
+            <marker date="1588173864996" expanded="true" signature="73174:73548" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="73640:73647" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="73730:74025" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="73862:73938" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="73974:73989" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="74009:74019" ph=" }" />
+            <marker date="1588173864996" expanded="true" signature="74137:74254" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="74207:74222" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="74238:74248" ph=" }" />
+            <marker date="1588173864996" expanded="true" signature="74337:74499" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="74412:74493" ph="{...}" />
+            <marker date="1588173864996" expanded="true" signature="74581:75225" ph="{...}" />
+            <marker date="1588173864996" expanded="false" signature="74673:74688" ph=" { " />
+            <marker date="1588173864996" expanded="false" signature="74701:74711" ph=" }" />
+            <marker date="1588173864996" expanded="true" signature="74750:75219" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/ApplicationContextInitializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter/src/main/java/com/meite/helloworld/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-base/src/main/java/com/springboot/base/mybatis/MyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/org/springframework/boot/context/ConfigurationWarningsApplicationContextInitializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <marker date="1588173267560" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588173267560" expanded="false" signature="156:1305" ph="..." />
+            <marker date="1588173267560" expanded="true" signature="1626:1633" ph="{}" />
+            <marker date="1588173267560" expanded="true" signature="1702:1863" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="1950:2120" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="2243:6119" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="2351:2362" ph="{}" />
+            <marker date="1588173267560" expanded="true" signature="2430:2830" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="2924:3635" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="3738:4354" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="4428:4542" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="4615:4948" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="5031:5480" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="5550:5684" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="5747:5883" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="5900:6113" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="6176:6239" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="6373:7705" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="6576:6621" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="6652:6667" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="6685:6695" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="6807:6818" ph="{}" />
+            <marker date="1588173267560" expanded="true" signature="6929:7402" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="7446:7699" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/ConfigurableApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="263" column="34" lean-forward="true" selection-start-line="263" selection-start-column="34" selection-end-line="263" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/org/springframework/boot/context/config/DelegatingApplicationContextInitializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="29" column="62" lean-forward="false" selection-start-line="29" selection-start-column="62" selection-end-line="29" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/org/springframework/boot/SpringApplicationRunListeners.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-base/src/main/java/com/springboot/base/api/AppBoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="380" column="80" lean-forward="false" selection-start-line="380" selection-start-column="80" selection-end-line="380" selection-end-column="80" />
+          <folding>
+            <marker date="1588173267560" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588173267560" expanded="false" signature="148:3068" ph="..." />
+            <marker date="1588173267560" expanded="true" signature="4908:4919" ph=" { " />
+            <marker date="1588173267560" expanded="true" signature="4962:4968" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="5055:5970" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="6022:6617" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="6681:8622" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="8763:9534" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="9610:9887" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="10104:11165" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="11239:11479" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="11526:11656" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="11731:11966" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="12041:12117" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="12235:12600" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="12758:13512" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="13575:13988" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="14082:14446" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="14544:15467" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="15558:15830" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="15910:16191" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="16273:16510" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="16580:17160" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="17234:18302" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="18393:19182" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="19261:19741" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="19793:19935" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="20018:20648" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="20688:20801" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="20873:21509" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="21556:21567" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="21594:21600" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="21642:21769" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="21860:22258" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="22373:22440" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="22508:22666" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="22767:22774" ph="{}" />
+            <marker date="1588173267560" expanded="true" signature="22860:23554" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="23637:23823" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="23906:24108" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="24306:24894" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="25006:25618" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="25684:25872" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="25967:26402" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="26506:26740" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="26850:27243" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="27324:27590" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="27655:27775" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="27832:28006" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="28053:28064" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="28097:28103" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="28176:28241" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="28296:28307" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="28338:28344" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="28423:28567" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="28657:28740" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="28787:28798" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="28823:28829" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="28901:28966" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="29008:29019" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="29040:29046" ph=" }" />
+            <marker date="1588173267560" expanded="false" signature="29094:29105" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="29134:29140" ph=" }" />
+            <marker date="1588173267560" expanded="false" signature="29199:29210" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="29247:29253" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="29333:29406" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="29478:29543" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="29621:29680" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="29749:30055" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="30115:30200" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="30276:30335" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="30405:30493" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="30576:30645" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="30682:30693" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="30713:30719" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="30769:30888" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="30929:31280" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="31347:31475" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="31593:31772" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="31875:31975" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="32056:32126" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="32195:32262" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="32349:32440" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="32504:32515" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="32563:32569" ph=" }" />
+            <marker date="1588173267560" expanded="false" signature="32624:32635" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="32683:32689" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="32784:32845" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="32942:33015" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="33077:33117" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="33215:34066" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="34126:34334" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="34415:34570" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot-autoconfigure/2.1.8.RELEASE/spring-boot-autoconfigure-2.1.8.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot-autoconfigure/2.1.8.RELEASE/spring-boot-autoconfigure-2.1.8.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot-autoconfigure/2.1.8.RELEASE/spring-boot-autoconfigure-2.1.8.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="149" column="58" lean-forward="false" selection-start-line="149" selection-start-column="58" selection-end-line="149" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot-autoconfigure/2.1.8.RELEASE/spring-boot-autoconfigure-2.1.8.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/ServletWebServerFactoryAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="39" column="93" lean-forward="false" selection-start-line="39" selection-start-column="93" selection-end-line="39" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot-autoconfigure/2.1.8.RELEASE/spring-boot-autoconfigure-2.1.8.RELEASE.jar!/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="63" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.1.1/mybatis-spring-boot-autoconfigure-1.1.1.jar!/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/org/springframework/boot/SpringApplicationRunListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1588173267560" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588173267560" expanded="false" signature="148:268" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/org/springframework/boot/web/embedded/tomcat/TomcatServletWebServerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding>
+            <marker date="1588173267560" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588173267560" expanded="false" signature="168:2576" ph="..." />
+            <marker date="1588173267560" expanded="true" signature="3697:3823" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="3876:4023" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="4096:4256" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="4332:4544" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="4623:5475" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="5525:5801" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="5890:7817" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="7893:8117" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="8185:8369" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="8256:8361" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="8444:8672" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="8726:9227" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="9277:9769" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="9840:10180" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="10241:11347" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="11414:11525" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="11578:11831" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="11928:13571" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="13624:14363" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="14423:14791" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="14488:14609" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="14839:15010" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="15070:15174" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="15231:15238" ph="{}" />
+            <marker date="1588173267560" expanded="true" signature="15304:15376" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="15442:15453" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="15490:15496" ph=" }" />
+            <marker date="1588173267560" expanded="false" signature="15550:15561" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="15596:15602" ph=" }" />
+            <marker date="1588173267560" expanded="false" signature="15647:15658" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="15686:15692" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="15758:15888" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="15945:16077" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="16124:16231" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="16307:16436" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="16484:16495" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="16520:16526" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="16583:16718" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="16796:16928" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="16977:16988" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="17014:17020" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="17079:17217" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="17331:17518" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="17591:17602" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="17640:17646" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="17741:17934" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="18052:18235" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="18313:18324" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="18361:18367" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="18460:18649" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="18773:18964" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="19063:19260" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="19343:19398" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="19471:19620" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="19680:19691" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="19730:19736" ph=" }" />
+            <marker date="1588173267560" expanded="false" signature="19789:19800" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="19831:19837" ph=" }" />
+            <marker date="1588173267560" expanded="false" signature="19874:19885" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="19909:19915" ph=" }" />
+            <marker date="1588173267560" expanded="false" signature="19971:19982" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="20020:20026" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="20039:20141" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="20229:22317" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="20390:20712" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="20766:20933" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="20976:20991" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="21023:21033" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="21091:21316" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="21185:21276" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="21359:21374" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="21407:21417" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="21496:21568" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="21601:21616" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="21650:21660" ph=" }" />
+            <marker date="1588173267560" expanded="false" signature="21711:21726" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="21762:21772" ph=" }" />
+            <marker date="1588173267560" expanded="false" signature="21809:21824" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="21858:21868" ph=" }" />
+            <marker date="1588173267560" expanded="false" signature="21894:21909" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="21928:21938" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="22004:22311" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="22396:22697" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="22469:22484" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="22499:22509" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="22568:22691" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="22777:24617" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="22876:22891" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="22914:22924" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="22983:23180" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="23246:23964" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="24019:24482" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="24537:24552" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="24601:24611" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="24703:25196" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="24753:24764" ph="{}" />
+            <marker date="1588173267560" expanded="true" signature="24823:25190" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot-autoconfigure/2.1.8.RELEASE/spring-boot-autoconfigure-2.1.8.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/ServletWebServerFactoryConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1265">
+          <caret line="74" column="40" lean-forward="false" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
+          <folding>
+            <marker date="1588173170715" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588173170715" expanded="false" signature="174:1140" ph="..." />
+            <marker date="1588173170715" expanded="true" signature="1245:1252" ph="{}" />
+            <marker date="1588173170715" expanded="true" signature="1258:1480" ph="@{...}" />
+            <marker date="1588173170715" expanded="true" signature="1522:1741" ph="{...}" />
+            <marker date="1588173170715" expanded="true" signature="1558:1569" ph="{}" />
+            <marker date="1588173170715" expanded="true" signature="1666:1735" ph="{...}" />
+            <marker date="1588173170715" expanded="true" signature="1747:1977" ph="@{...}" />
+            <marker date="1588173170715" expanded="true" signature="2016:2223" ph="{...}" />
+            <marker date="1588173170715" expanded="true" signature="2049:2060" ph="{}" />
+            <marker date="1588173170715" expanded="true" signature="2151:2217" ph="{...}" />
+            <marker date="1588173170715" expanded="true" signature="2229:2447" ph="@{...}" />
+            <marker date="1588173170715" expanded="true" signature="2487:2698" ph="{...}" />
+            <marker date="1588173170715" expanded="true" signature="2521:2532" ph="{}" />
+            <marker date="1588173170715" expanded="true" signature="2625:2692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter/src/main/resources/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE.jar!/org/springframework/context/ApplicationListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1588173860050" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="54" lean-forward="false" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Maven_Respository3.5/Respository/org/springframework/boot/spring-boot/2.1.8.RELEASE/spring-boot-2.1.8.RELEASE.jar!/org/springframework/boot/context/event/EventPublishingRunListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1588173267560" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1588173267560" expanded="false" signature="162:857" ph="..." />
+            <marker date="1588173267560" expanded="true" signature="1189:1594" ph="{...}" />
+            <marker date="1588173267560" expanded="false" signature="1621:1632" ph=" { " />
+            <marker date="1588173267560" expanded="false" signature="1641:1647" ph=" }" />
+            <marker date="1588173267560" expanded="true" signature="1676:1790" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="1865:2003" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="2077:2210" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="2282:2804" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="2870:2974" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="3040:3142" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="3228:4052" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="4123:4414" ph="{...}" />
+            <marker date="1588173267560" expanded="true" signature="4253:4264" ph="{}" />
+            <marker date="1588173267560" expanded="true" signature="4319:4408" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter/src/main/java/com/meite/helloworld/HelloServiceAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter-test/src/main/java/com/meite/helloworld/test/AppBoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter/src/main/java/com/meite/helloworld/HelloProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-starter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Maven_Respository3.5/Respository/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2.2.0.RELEASE/spring-cloud-starter-alibaba-nacos-discovery-2.2.0.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-starter/helloworld-spring-boot-starter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="10" lean-forward="false" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1.12-bin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>helloworld-spring-boot-starter-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework.boot:spring-boot-autoconfigure:2.1.8.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

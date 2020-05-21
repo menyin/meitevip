@@ -1,0 +1,10 @@
+spring:
+  application:
+    ###服务的名称
+    name: springcloud-order
+  helloworld:
+    age: 45
+    name: jack
+    sex: 男
+server:
+  port: 8081
