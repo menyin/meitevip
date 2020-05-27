@@ -11,6 +11,7 @@ spring:
           transport:
             dashboard: 192.168.1.245:8718
           eager: true
+
 server:
   port: 8081
 
