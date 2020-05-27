@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class SentinelService {
 
     /**
-     * 在sentinel控制台配置限流规则，再进行测试.
+     * 在sentinel控制台配置qps限流规则，再进行测试.
      * 其实和dubbo的mock差不多一个意思
      * 特别注意：1、该函数的传参必须与资源点的传参一样，并且最后加上BlockException异常参数；同时，返回类型也必须一样。
      *          2、如果不加该处理函数，则默认会直接给用户抛出“No message available...”异常
@@ -61,6 +61,23 @@ public class SentinelService {
 
 
 
+    /**
+     * 在sentinel控制台配置热词规则（针对），再进行测试.
+     * 通过http://localhost:8081/testSentinelHot?hotword=1进行请求
+     * @return
+     * @remark
+     * 注意： 参数hotword 对应到sentinel热词限制的【参数索引】=0
+     *        热词限制后，也是通过抛出异常的原理来实现。 但是sentinel并未提供blockHandle或fallback来支持热词限流，只能通过SpringMvc全局异常捕获来实现。
+     *       ？如何针对多个参数组合进行限制
+     */
+    @SentinelResource(value = "testSentinelHot", blockHandler = "limitHot")//如果不加注解则默认的vlue就是路径"/getSentinel",记得要加"/"
+    @RequestMapping("/testSentinelHot")
+    public String testSentinelHot(String hotword)  {
+        return "testSentinelHot世界和平。。。。。"+hotword;
+    }
 
+    public String limitHot(String hotword) {
+        return "世界不太平，被降级了~ ";
+    }
 
 }
