@@ -11,6 +11,44 @@ spring:
           transport:
             dashboard: 192.168.1.245:8718
           eager: true
+          datasource:
+          ### 这些相关配置可以结合properties源码类和sentinel控制台新建规则表单字段
+              ds-flow:
+                nacos:
+                  ### nacos连接地址
+                  server-addr: 192.168.1.245:8848
+                  ## nacos连接的分组
+                  group-id: DEFAULT_GROUP
+                  ###路由存储规则
+                  rule-type: flow
+                  ### 读取配置文件的 data-id
+                  data-id: springcloud-sentinel-flow
+                  ###  读取培训文件类型为json
+                  data-type: json
+              ds-degrade:
+                nacos:
+                  ### nacos连接地址
+                  server-addr: 192.168.1.245:8848
+                  ## nacos连接的分组
+                  group-id: DEFAULT_GROUP
+                  ###路由存储规则
+                  rule-type: degrade
+                  ### 读取配置文件的 data-id
+                  data-id: springcloud-sentinel-degrade
+                  ###  读取培训文件类型为json
+                  data-type: json
+              ds-param-flow:
+                nacos:
+                  ### nacos连接地址
+                  server-addr: 192.168.1.245:8848
+                  ## nacos连接的分组
+                  group-id: DEFAULT_GROUP
+                  ###路由存储规则
+                  rule-type: param-flow
+                  ### 读取配置文件的 data-id
+                  data-id: springcloud-sentinel-param-flow
+                  ###  读取培训文件类型为json
+                  data-type: json
 
 server:
   port: 8081

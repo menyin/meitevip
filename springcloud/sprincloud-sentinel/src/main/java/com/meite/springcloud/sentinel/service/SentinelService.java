@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- *
+ * sentinel配置持久化：以下的限流降级配置可以统一配置到nacos中，再让sentinel从应用读取展示到控制台。
  */
 @RestController
 public class SentinelService {
@@ -53,8 +53,6 @@ public class SentinelService {
         System.out.println("testSentinelMock visit..................");
         return "testSentinelMock世界和平。。。。。";
     }
-
-
     public String limitMock(){
         return "世界不太平，被降级了~ ";
     }

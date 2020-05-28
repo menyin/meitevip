@@ -19,6 +19,11 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
         <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
+
+        <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
             <version>0.2.2.RELEASE</version>
@@ -29,9 +34,13 @@
             <artifactId>spring-cloud-alibaba-sentinel</artifactId>
             <version>0.2.2.RELEASE</version>
         </dependency>
+
+        <!--sentinel 整合nacos -->
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-actuator</artifactId>
+            <groupId>com.alibaba.csp</groupId>
+            <artifactId>sentinel-datasource-nacos</artifactId>
+            <version>1.5.2</version>
         </dependency>
+
     </dependencies>
 </project>
